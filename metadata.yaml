@@ -1,0 +1,24 @@
+_repo: Material-Classification-Recommended-by-the-Railway-Storekeepers-Association_57169
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. Railroad administration. Division of finance
+    gutenberg_agent_id: '49231'
+    url: http://www.gutenberg.org/2009/agents/49231
+description: ''
+gutenberg_issued: '2018-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads -- Equipment and supplies'
+- !lcc 'TF'
+- GITenberg
+title: 'Material Classification
+
+  Recommended by the Railway Storekeepers'' Association'
+url: http://www.gutenberg.org/ebooks/57169
